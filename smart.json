@@ -11,6 +11,6 @@
     "stripe-server": "0.1.2",
     "reststop2": "0.5.9",
     "npm": "0.2.6",
-    "accounts-t9n": "0.0.15"
+    "accounts-t9n": "0.0.13"
   }
 }
